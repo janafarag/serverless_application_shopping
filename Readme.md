@@ -1,4 +1,4 @@
-## Peter Haidt (209692), Jana Farag (208539), MIM1
+## Peter Haidt , Jana Farag, MIM1
 ### Repo: cottoncandy
 
 ## Introduction 
