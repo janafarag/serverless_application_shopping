@@ -21,7 +21,6 @@ All selected items are added to the cart and can be seen and edited there in an 
 
 For checkout the details of the user are obtained through a form to aquire the shipping address and preferred email for confirmation.
 
-![Details Page](details.png)
 
 After a successful checkout the order is saved in our database so it can be produced and a confirmation email is sent the user confirming the purchased items and price fucntioning as an invoice.
 While waiting for the order the user may choose to peek behind the curtains and is redirected to a live feed of the order being produced.
